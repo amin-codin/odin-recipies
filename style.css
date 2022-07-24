@@ -1,0 +1,47 @@
+*{
+    background-color:rgb(40, 35, 35);
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight:700;
+}
+
+.main{
+    text-align: center;
+}
+
+h1.main{
+    font-size:72px;
+}
+
+ul.main{
+    display:inline-block;
+    font-size:32px;
+}
+
+.recipie-name{
+    color:#FFD300;
+    font-size:48px;
+    text-align:center;
+
+}
+
+.recipie-pic{
+    width:490px;
+    height:auto;
+    margin:auto;
+    display:block;
+}
+
+.recipie-caption{
+    width:490px;
+    height:auto;
+    margin:auto;
+}
