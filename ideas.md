@@ -1,0 +1,2 @@
+- [ ] write it in both farsi and english; there should be a menu where you can choose the language in the main page
+- [ ] learn madarjoon's recipies and write them down
